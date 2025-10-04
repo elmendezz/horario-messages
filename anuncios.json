@@ -62,6 +62,9 @@
     "type": "success",
     "title": "Hola!",
     "content": "Pruebas Aún En Ejecución ",
-    "author": "elmendezz"
+    "author": "elmendezz",
+    "reactions": {
+      "😮": 1
+    }
   }
 ]
