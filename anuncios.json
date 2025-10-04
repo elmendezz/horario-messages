@@ -6,5 +6,13 @@
     "title": "Prueba De Notificaciones Por Service Worker JS",
     "content": "Esto Debería De Llegarte A Tu Teléfono ",
     "author": "elmendezz"
+  },
+  {
+    "id": "1759555297879-wu9n1hv",
+    "timestamp": "2025-10-04T05:21:37.879Z",
+    "type": "info",
+    "title": "Prueba Número 2",
+    "content": "¿Te Llegó?",
+    "author": "elmendezz"
   }
 ]
