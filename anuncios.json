@@ -10,5 +10,11 @@
     "type": "success",
     "title": "Hola Gente!",
     "content": "Esto Es Una Prueba Del Sistema De Anuncios"
+  },
+  {
+    "id": "1759551273583-utazvyu",
+    "type": "warning",
+    "title": "Tablón De Anuncios [BETA]",
+    "content": "Probando V6"
   }
 ]
