@@ -19,6 +19,9 @@
     "type": "info",
     "title": "Hola, los saluda mami eve",
     "content": "⚡",
-    "author": "Eveleth"
+    "author": "Eveleth",
+    "reactions": {
+      "❤️": 1
+    }
   }
 ]
