@@ -11,7 +11,10 @@
     "type": "info",
     "title": "Hola, los saluda papi gustavito",
     "content": "⚡",
-    "author": "Gustavo"
+    "author": "Gustavo",
+    "reactions": {
+      "❤️": 1
+    }
   },
   {
     "id": "1759553926908-vg4k4rp",
