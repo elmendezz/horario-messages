@@ -4,5 +4,11 @@
     "type": "info",
     "title": "Hola!",
     "content": "Prueba"
+  },
+  {
+    "id": "1759546114348-zo4x9wp",
+    "type": "success",
+    "title": "Hola Gente!",
+    "content": "Esto Es Una Prueba Del Sistema De Anuncios"
   }
 ]
