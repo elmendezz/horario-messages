@@ -45,6 +45,9 @@
     "type": "info",
     "title": "Prueba ",
     "content": "Esto se verá ya",
-    "author": "elmendezz"
+    "author": "elmendezz",
+    "reactions": {
+      "❤️": 1
+    }
   }
 ]
