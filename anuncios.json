@@ -29,7 +29,10 @@
     "type": "info",
     "title": "Prueba 4",
     "content": "¿Necesito De Verdad Texto Aquí?",
-    "author": "elmendezz"
+    "author": "elmendezz",
+    "reactions": {
+      "❤️": 1
+    }
   },
   {
     "id": "1759555695207-14aw2t4",
