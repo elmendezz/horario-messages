@@ -6,5 +6,13 @@
     "title": "Prueba De Notificaciones Por Service Worker JS",
     "content": "Esto Debería De Llegarte A Tu Teléfono ",
     "author": "elmendezz"
+  },
+  {
+    "id": "1759555448727-jvjejrv",
+    "timestamp": "2025-10-04T05:24:08.727Z",
+    "type": "warning",
+    "title": "FallBack Notification",
+    "content": "This is a test fallback notification, shouldn't be shown in your phone",
+    "author": "elmendezz"
   }
 ]
