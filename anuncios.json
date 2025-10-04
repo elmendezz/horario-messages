@@ -37,7 +37,10 @@
     "type": "info",
     "title": "prueba 5",
     "content": "última ",
-    "author": "elmendezz"
+    "author": "elmendezz",
+    "reactions": {
+      "❤️": 1
+    }
   },
   {
     "id": "1759556452952-agafj14",
