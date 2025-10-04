@@ -14,5 +14,13 @@
     "title": "FallBack Notification",
     "content": "This is a test fallback notification, shouldn't be shown in your phone",
     "author": "elmendezz"
+  },
+  {
+    "id": "1759555564579-l4jk7j0",
+    "timestamp": "2025-10-04T05:26:04.580Z",
+    "type": "info",
+    "title": "prueba del service worker ",
+    "content": "prueba Número 3",
+    "author": "elmendezz"
   }
 ]
