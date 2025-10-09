@@ -5,7 +5,10 @@
     "type": "warning",
     "title": "Que rollo plegada ",
     "content": "Holaaaa amigos ",
-    "author": "Gustavo"
+    "author": "Gustavo",
+    "reactions": {
+      "😂": 1
+    }
   },
   {
     "id": "1760002253173-i2sqd5u",
