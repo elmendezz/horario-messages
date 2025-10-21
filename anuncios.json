@@ -17,6 +17,9 @@
     "type": "success",
     "title": "Que onda plebes",
     "content": "✌🏻",
-    "author": "elmendezz"
+    "author": "elmendezz",
+    "reactions": {
+      "👍": 1
+    }
   }
 ]
